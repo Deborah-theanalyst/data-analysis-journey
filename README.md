@@ -58,7 +58,7 @@ Week 2: SQL Functions and Clauses
 
 My Week 2 Work:
 
-- "Week 2 Learning Notes" (learning-notes/week-02.md)
+-[Week 2 Learning Notes](learning-notes/week-02.md)
 
   
 More learning notes and practical exercises will be added as I progress.
