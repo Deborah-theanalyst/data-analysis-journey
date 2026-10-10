@@ -48,4 +48,17 @@ My Week 1 Work:
 
 ---
 
+
+Week 2: SQL Functions and Clauses
+
+- Learned aggregate functions such as "COUNT()", "SUM()", "MIN()", "MAX()", and "AVG()".
+- Practised using SQL clauses, including "WHERE", "ORDER BY", "GROUP BY", "LIMIT", and "HAVING".
+- Explored text functions and date functions.
+- Learned operators such as "IN", "AND", and "OR" for filtering data.
+
+My Week 2 Work:
+
+- "Week 2 Learning Notes" (learning-notes/week-02.md)
+
+  
 More learning notes and practical exercises will be added as I progress.
