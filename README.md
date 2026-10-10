@@ -37,16 +37,14 @@ Thanks for visiting my repository!
 I'm documenting my Data Analytics journey one step at a time. Here are some of the concepts I've learned and the practical exercises I've completed.
 
 Week 1: Introduction to SQL
-
 - Learned what SQL is and how it is used to interact with relational databases.
 - Studied SQL command categories: DDL, DML, and DQL.
 - Practised creating databases and tables and inserting values.
 - Completed my first SQL database practice assignment.
 
 My Week 1 Work:
-
-- "Week 1 Learning Notes" (learning-notes/week-01.md)
-- "Week 1 SQL Practice" (SQL/week-01-database-practice.sql)
+- [Week 1 Learning Notes](learning-notes/week-01.md)
+- [Week 1 SQL Practice](SQL/week-01-database-practice.sql)
 
 ---
 
