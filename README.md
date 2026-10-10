@@ -44,7 +44,7 @@ Week 1: Introduction to SQL
 
 My Week 1 Work:
 - [Week 1 Learning Notes](learning-notes/week-01.md)
-- [Week 1 SQL Practice](SQL/week-01-database-practice.sql)
+- [Week 1 SQL Practice](./SQL/week-01-database-practice.sql)
 
 ---
 
