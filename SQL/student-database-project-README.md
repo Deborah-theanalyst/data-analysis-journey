@@ -29,7 +29,7 @@ Through this project, I practised SQL database creation, table creation, data in
 
 Project File
 
-
+https://github.com/Deborah-theanalyst/data-analysis-journey/blob/main/SQL/student-database-project.sql
 
 Conclusion
 
